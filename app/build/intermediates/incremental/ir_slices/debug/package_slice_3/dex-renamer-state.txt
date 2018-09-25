@@ -1,0 +1,4 @@
+#Tue Sep 25 13:48:39 EEST 2018
+base.0=C\:\\Users\\iulia\\Desktop\\Ex_Files_Android_App_Dev_Distributing\\Ex_Files_Android_App_Dev_Distributing\\Exercise Files\\Ch02\\02_04\\SignedAPK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

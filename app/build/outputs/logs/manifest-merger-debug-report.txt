@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:design:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\8928fe260abf374652df7aa68cbdafd6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\72b7384b5df18769df97ef6f1db4102a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.0.aar\69bcdd7747603b9a9551341a274e5d85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bec9ed181e9462f8d4f3e9bb09f9b2ac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\438e2e52ab624584cfb0c403d165b826\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ac390f9a624e7bcea06d756493b4f2fb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\2fde2bc8ecf0d04d1e07c0fa2b0c318f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\ddc3f9aa8f48f1b4e6b7b326c67dbdf1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\211be21723288a08db4b580711ec3123\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\ef80bc6f08237972d14f8840ce9e5fa0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\cf8e3cfa62077f91475cc64a40f3c3c6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\c76406bf671f67347eba9a623c1611ea\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:10:5-44:19
+MERGED from [com.android.support:design:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\8928fe260abf374652df7aa68cbdafd6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\8928fe260abf374652df7aa68cbdafd6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\72b7384b5df18769df97ef6f1db4102a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\72b7384b5df18769df97ef6f1db4102a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bec9ed181e9462f8d4f3e9bb09f9b2ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bec9ed181e9462f8d4f3e9bb09f9b2ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\438e2e52ab624584cfb0c403d165b826\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\438e2e52ab624584cfb0c403d165b826\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ac390f9a624e7bcea06d756493b4f2fb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ac390f9a624e7bcea06d756493b4f2fb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\2fde2bc8ecf0d04d1e07c0fa2b0c318f\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\2fde2bc8ecf0d04d1e07c0fa2b0c318f\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\ddc3f9aa8f48f1b4e6b7b326c67dbdf1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\ddc3f9aa8f48f1b4e6b7b326c67dbdf1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\211be21723288a08db4b580711ec3123\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\211be21723288a08db4b580711ec3123\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\ef80bc6f08237972d14f8840ce9e5fa0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\ef80bc6f08237972d14f8840ce9e5fa0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\cf8e3cfa62077f91475cc64a40f3c3c6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\cf8e3cfa62077f91475cc64a40f3c3c6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\c76406bf671f67347eba9a623c1611ea\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\c76406bf671f67347eba9a623c1611ea\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.android.data.MainActivity
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.android.data.DetailActivity
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:parentActivityName
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:24:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:26:13-28:49
+	android:value
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:27:17-63
+activity#com.example.android.data.SigninActivity
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:33:13-55
+	android:label
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:31:13-43
+activity#com.example.android.data.PrefsActivity
+ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:parentActivityName
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\8928fe260abf374652df7aa68cbdafd6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\8928fe260abf374652df7aa68cbdafd6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\72b7384b5df18769df97ef6f1db4102a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\72b7384b5df18769df97ef6f1db4102a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.0.aar\69bcdd7747603b9a9551341a274e5d85\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.0.aar\69bcdd7747603b9a9551341a274e5d85\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bec9ed181e9462f8d4f3e9bb09f9b2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bec9ed181e9462f8d4f3e9bb09f9b2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\438e2e52ab624584cfb0c403d165b826\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\438e2e52ab624584cfb0c403d165b826\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ac390f9a624e7bcea06d756493b4f2fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ac390f9a624e7bcea06d756493b4f2fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\2fde2bc8ecf0d04d1e07c0fa2b0c318f\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\2fde2bc8ecf0d04d1e07c0fa2b0c318f\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\ddc3f9aa8f48f1b4e6b7b326c67dbdf1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\ddc3f9aa8f48f1b4e6b7b326c67dbdf1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\211be21723288a08db4b580711ec3123\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\211be21723288a08db4b580711ec3123\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\ef80bc6f08237972d14f8840ce9e5fa0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\ef80bc6f08237972d14f8840ce9e5fa0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\cf8e3cfa62077f91475cc64a40f3c3c6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\cf8e3cfa62077f91475cc64a40f3c3c6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\c76406bf671f67347eba9a623c1611ea\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\c76406bf671f67347eba9a623c1611ea\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] C:\Users\iulia\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\8928fe260abf374652df7aa68cbdafd6\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\iulia\Desktop\Ex_Files_Android_App_Dev_Distributing\Ex_Files_Android_App_Dev_Distributing\Exercise Files\Ch02\02_04\SignedAPK\app\src\main\AndroidManifest.xml
